@@ -1,0 +1,101 @@
+Product ID,Product Name,Category,Brand,Price (USD),Eco-Friendly Certification,Description
+1,Bamboo Toothbrush,Personal Care,EcoBrush,5.99,BPA-Free,Biodegradable toothbrush made from bamboo.
+2,Reusable Shopping Bag,Accessories,GreenBag,12.99,Recycled Materials,Durable shopping bag made from recycled materials.
+3,Organic Cotton T-Shirt,Apparel,PureCotton,19.99,GOTS Certified,Soft t-shirt made from 100% organic cotton.
+4,Biodegradable Plates,Kitchenware,EcoTableware,15.99,Compostable,"Plates made from sugarcane fiber, fully compostable."
+5,Natural Cleaning Spray,Household,CleanGreen,8.99,EcoLogo,All-natural cleaning spray with no harmful chemicals.
+6,Solar-Powered Charger,Electronics,SunCharge,29.99,Energy Star,Portable charger powered by solar energy.
+7,Recycled Paper Notebook,Stationery,EcoWrite,6.99,FSC Certified,Notebook made from 100% recycled paper.
+8,Plant-Based Candles,Home Decor,EcoGlow,14.99,Vegan,"Candles made from plant-based wax, non-toxic."
+9,Stainless Steel Straws,Kitchenware,ReusableStraw,9.99,BPA-Free,Set of reusable straws made from stainless steel.
+10,Eco-Friendly Laundry Detergent,Household,GreenClean,11.99,USDA BioPreferred,"Plant-based laundry detergent, safe for the environment."
+11,Biodegradable Dog Waste Bags,Pet Supplies,EcoPaws,10.99,Compostable,Biodegradable bags for dog waste disposal.
+12,Recycled Glass Water Bottle,Drinkware,ClearEco,19.99,Recycled Materials,Durable water bottle made from recycled glass.
+13,Organic Herbal Tea,Food & Beverage,PureLeaf,7.99,USDA Organic,Herbal tea made from 100% organic ingredients.
+14,Eco-Friendly Yoga Mat,Fitness,GreenYoga,39.99,Non-Toxic,Non-toxic yoga mat made from natural rubber.
+15,Reusable Coffee Cup,Drinkware,EcoSip,15.99,BPA-Free,Insulated coffee cup made from sustainable materials.
+16,Natural Insect Repellent,Personal Care,BugAway,12.99,DEET-Free,"Plant-based insect repellent, safe for skin."
+17,Compost Bin,Gardening,EcoGarden,49.99,Compostable,Bin for composting kitchen waste.
+18,Organic Baby Wipes,Baby Care,PureBaby,8.99,USDA Organic,Gentle baby wipes made from organic materials.
+19,Eco-Friendly Paint,Home Improvement,GreenPaint,29.99,Low VOC,Non-toxic paint with low volatile organic compounds.
+20,Reusable Food Storage Bags,Kitchenware,EcoStore,12.99,BPA-Free,"Silicone food storage bags, reusable and safe."
+21,Biodegradable Cutlery,Kitchenware,EcoCutlery,10.99,Compostable,"Cutlery made from plant materials, fully compostable."
+22,Organic Cotton Tote Bag,Accessories,PureTote,14.99,GOTS Certified,Eco-friendly tote bag made from organic cotton.
+23,Recycled Plastic Ruler,Stationery,EcoRuler,3.99,Recycled Materials,Ruler made from 100% recycled plastic.
+24,Natural Deodorant,Personal Care,FreshScents,9.99,Aluminum-Free,Deodorant made from natural ingredients.
+25,Eco-Friendly Dish Soap,Household,CleanGreen,7.99,Biodegradable,"Plant-based dish soap, safe for the environment."
+26,Reusable Produce Bags,Kitchenware,GreenBags,11.99,BPA-Free,Set of reusable bags for fruits and vegetables.
+27,Organic Cotton Baby Clothes,Baby Care,PureBaby,24.99,GOTS Certified,Soft baby clothes made from organic cotton.
+28,Eco-Friendly Phone Case,Electronics,EcoCase,19.99,Biodegradable,Phone case made from biodegradable materials.
+29,Recycled Aluminum Foil,Kitchenware,EcoWrap,5.99,Recycled Materials,Aluminum foil made from recycled aluminum.
+30,Plant-Based Hair Conditioner,Personal Care,EcoHair,12.99,Vegan,Conditioner made from plant-based ingredients.
+31,Biodegradable Trash Bags,Household,EcoWaste,12.99,Compostable,Trash bags made from biodegradable materials.
+32,Organic Cotton Dish Towels,Kitchenware,PureCotton,15.99,GOTS Certified,Soft dish towels made from organic cotton.
+33,Reusable Sandwich Wraps,Kitchenware,EcoWraps,9.99,BPA-Free,"Reusable wraps for sandwiches, made from organic materials."
+34,Natural Lip Balm,Personal Care,EcoLips,4.99,Vegan,Lip balm made from natural ingredients.
+35,Eco-Friendly Pet Shampoo,Pet Supplies,CleanPaws,11.99,Biodegradable,Pet shampoo made from eco-friendly ingredients.
+36,Recycled Plastic Backpack,Accessories,EcoPack,39.99,Recycled Materials,Backpack made from recycled plastic bottles.
+37,Organic Cotton Bed Sheets,Home Textiles,PureSleep,79.99,GOTS Certified,Soft bed sheets made from 100% organic cotton.
+38,Solar Garden Lights,Outdoor,EcoLight,29.99,Energy Star,Solar-powered lights for garden decoration.
+39,Biodegradable Phone Charger,Electronics,EcoCharge,24.99,Biodegradable,Phone charger made from biodegradable materials.
+40,Natural Body Wash,Personal Care,EcoClean,10.99,Vegan,Body wash made from natural ingredients.
+41,Reusable Coffee Filter,Kitchenware,EcoBrew,7.99,BPA-Free,Permanent coffee filter made from stainless steel.
+42,Organic Cotton Face Masks,Personal Care,PureMask,12.99,GOTS Certified,Reusable face masks made from organic cotton.
+43,Eco-Friendly Hair Brush,Personal Care,EcoBrush,8.99,Biodegradable,Hair brush made from sustainable materials.
+44,Recycled Cardboard Cat House,Pet Supplies,EcoCat,39.99,Recycled Materials,Cat house made from recycled cardboard.
+45,Plant-Based All-Purpose Cleaner,Household,CleanGreen,9.99,EcoLogo,All-purpose cleaner made from plant-based ingredients.
+46,Organic Cotton Diapers,Baby Care,PureBaby,24.99,GOTS Certified,"Diapers made from organic cotton, safe for babies."
+47,Eco-Friendly Yoga Block,Fitness,GreenYoga,14.99,Non-Toxic,Yoga block made from sustainable materials.
+48,Biodegradable Glitter,Arts & Crafts,EcoSparkle,6.99,Compostable,Glitter made from biodegradable materials.
+49,Reusable Water Bottle,Drinkware,EcoHydrate,19.99,BPA-Free,"Stainless steel water bottle, reusable and safe."
+50,Organic Herbal Supplements,Health,PureHealth,29.99,USDA Organic,Herbal supplements made from organic ingredients.
+51,Eco-Friendly Nail Polish,Personal Care,EcoNails,9.99,Non-Toxic,Nail polish made from non-toxic ingredients.
+52,Recycled Plastic Picnic Set,Outdoor,EcoPicnic,34.99,Recycled Materials,Picnic set made from recycled plastic.
+53,Natural Fiber Rugs,Home Decor,EcoRug,89.99,GOTS Certified,"Rugs made from natural fibers, eco-friendly."
+54,Biodegradable Phone Case,Electronics,EcoCase,19.99,Biodegradable,Phone case made from biodegradable materials.
+55,Organic Baby Lotion,Baby Care,PureBaby,12.99,USDA Organic,Gentle lotion made from organic ingredients.
+56,Eco-Friendly Paint Brushes,Arts & Crafts,EcoArt,14.99,Non-Toxic,Paint brushes made from sustainable materials.
+57,Reusable Snack Bags,Kitchenware,EcoSnack,10.99,BPA-Free,Set of reusable snack bags made from silicone.
+58,Organic Cotton Swaddle,Baby Care,PureBaby,24.99,GOTS Certified,Soft swaddle made from organic cotton.
+59,Solar-Powered Outdoor Speakers,Electronics,EcoSound,49.99,Energy Star,Outdoor speakers powered by solar energy.
+60,Biodegradable Pet Waste Bags,Pet Supplies,EcoPaws,10.99,Compostable,Biodegradable bags for pet waste disposal.
+61,Organic Cotton Pillow,Home Textiles,PureSleep,39.99,GOTS Certified,Soft pillow made from organic cotton.
+62,Eco-Friendly Garden Tools,Gardening,EcoGarden,29.99,Non-Toxic,Garden tools made from sustainable materials.
+63,Recycled Plastic Cutting Board,Kitchenware,EcoChef,19.99,Recycled Materials,Cutting board made from recycled plastic.
+64,Natural Soy Wax Melts,Home Fragrance,EcoScent,9.99,Vegan,Soy wax melts made from natural ingredients.
+65,Biodegradable Dog Shampoo,Pet Supplies,EcoPaws,11.99,Biodegradable,Dog shampoo made from eco-friendly ingredients.
+66,Organic Cotton Baby Blanket,Baby Care,PureBaby,34.99,GOTS Certified,Soft baby blanket made from organic cotton.
+67,Eco-Friendly Shower Curtain,Home Decor,EcoHome,29.99,Non-Toxic,Shower curtain made from sustainable materials.
+68,Reusable Beeswax Wraps,Kitchenware,EcoWraps,12.99,BPA-Free,"Beeswax wraps for food storage, reusable and eco-friendly."
+69,Plant-Based Protein Powder,Health,PureProtein,29.99,Vegan,Protein powder made from plant-based ingredients.
+70,Organic Cotton Handkerchiefs,Personal Care,PureCotton,9.99,GOTS Certified,Handkerchiefs made from organic cotton.
+71,Eco-Friendly Pet Bed,Pet Supplies,EcoPaws,49.99,Biodegradable,Pet bed made from eco-friendly materials.
+72,Recycled Paper Gift Wrap,Arts & Crafts,EcoWrap,6.99,Recycled Materials,Gift wrap made from recycled paper.
+73,Natural Fiber Cleaning Cloths,Household,EcoClean,10.99,Non-Toxic,Cleaning cloths made from natural fibers.
+74,Biodegradable Phone Screen Protector,Electronics,EcoGuard,14.99,Compostable,Screen protector made from biodegradable materials.
+75,Organic Cotton Socks,Apparel,PureCotton,12.99,GOTS Certified,Soft socks made from organic cotton.
+76,Eco-Friendly Water Filter,Household,PureWater,39.99,NSF Certified,Water filter made from eco-friendly materials.
+77,Reusable Silicone Baking Mats,Kitchenware,EcoBake,19.99,BPA-Free,"Baking mats made from silicone, reusable and safe."
+78,Natural Insect House,Gardening,EcoGarden,24.99,Non-Toxic,Insect house made from natural materials.
+79,Organic Cotton Baby Bibs,Baby Care,PureBaby,9.99,GOTS Certified,Soft bibs made from organic cotton.
+80,Eco-Friendly Yoga Strap,Fitness,GreenYoga,12.99,Non-Toxic,Yoga strap made from sustainable materials.
+81,Biodegradable Glitter Glue,Arts & Crafts,EcoSparkle,8.99,Compostable,Glitter glue made from biodegradable materials.
+82,Organic Herbal Face Mask,Personal Care,PureSkin,14.99,USDA Organic,Face mask made from organic herbal ingredients.
+83,Recycled Plastic Garden Pots,Gardening,EcoGarden,19.99,Recycled Materials,Garden pots made from recycled plastic.
+84,Natural Fiber Dog Toys,Pet Supplies,EcoPaws,12.99,Non-Toxic,Dog toys made from natural fibers.
+85,Eco-Friendly Air Freshener,Household,EcoScent,9.99,Biodegradable,Air freshener made from natural ingredients.
+86,Organic Cotton Swaddle Blanket,Baby Care,PureBaby,34.99,GOTS Certified,Soft swaddle blanket made from organic cotton.
+87,Reusable Food Wraps,Kitchenware,EcoWraps,12.99,BPA-Free,Reusable food wraps made from organic materials.
+88,Biodegradable Pet Waste Scooper,Pet Supplies,EcoPaws,10.99,Compostable,Pet waste scooper made from biodegradable materials.
+89,Organic Cotton Crib Mattress,Baby Care,PureBaby,199.99,GOTS Certified,Crib mattress made from organic cotton.
+90,Eco-Friendly Garden Kneeler,Gardening,EcoGarden,29.99,Non-Toxic,Garden kneeler made from sustainable materials.
+91,Recycled Plastic Picnic Blanket,Outdoor,EcoPicnic,34.99,Recycled Materials,Picnic blanket made from recycled plastic.
+92,Natural Fiber Bath Mat,Home Decor,EcoHome,29.99,GOTS Certified,Bath mat made from natural fibers.
+93,Biodegradable Pet Shampoo Bars,Pet Supplies,EcoPaws,11.99,Compostable,Shampoo bars for pets made from biodegradable ingredients.
+94,Organic Cotton Baby Hat,Baby Care,PureBaby,12.99,GOTS Certified,Soft baby hat made from organic cotton.
+95,Eco-Friendly Wall Paint,Home Improvement,GreenPaint,29.99,Low VOC,Non-toxic wall paint with low volatile organic compounds.
+96,Reusable Silicone Food Covers,Kitchenware,EcoCover,10.99,BPA-Free,Set of reusable silicone food covers.
+97,Natural Fiber Pet Bed,Pet Supplies,EcoPaws,49.99,Biodegradable,Pet bed made from natural fibers.
+98,Organic Cotton Baby Shoes,Baby Care,PureBaby,24.99,GOTS Certified,Soft baby shoes made from organic cotton.
+99,Eco-Friendly Watering Can,Gardening,EcoGarden,19.99,Non-Toxic,Watering can made from sustainable materials.
+100,Biodegradable Food Containers,Kitchenware,EcoStore,12.99,Compostable,Food containers made from biodegradable materials.
